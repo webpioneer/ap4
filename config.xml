@@ -55,7 +55,7 @@
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
     -->
     <gap:plugin name="org.apache.cordova.geolocation" />
-    <gap:plugin name="com.geotab.phonegap.tts" version="0.0.1" />
+    <!-- <gap:plugin name="com.geotab.phonegap.tts" version="0.0.1" /> -->
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
